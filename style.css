@@ -154,6 +154,8 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: auto;
+    margin-right: auto;
     gap: 2rem;
     background: var(--second-bg-color);
 }
